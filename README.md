@@ -1,7 +1,7 @@
 
 ## Social Links
 [![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/markjordan.javier)
-[![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jordieeeee_)
+[![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jordieeeee)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jordieeeee)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-jordan-javier-29b72935a/)
 
